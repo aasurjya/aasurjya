@@ -4,7 +4,7 @@ Hi My name is Aasurjya Bikash Handique
 Software Developer
 ------------------
 
-I'm a fourth-year Computer Science undergraduate student at Tezpur University. My main areas of interest include application development, security, reverse engineering. I engage in competitive and recreational programming in addition to research. Building new tools and learning about new technologies are two of my top picks to do.
+I'm a Computer Science undergraduate student at Tezpur University. My main areas of interest include application development, security, reverse engineering. I engage in competitive and recreational programming in addition to research. Building new tools and learning about new technologies are two of my top picks to do.
 
 * 🌍  I'm based in India
 
