@@ -3,7 +3,7 @@ Full Stack developer -> XR developer -> HCI Researcher.
                                                                                                                                    
   ---                                                                                                                              
                                                                                                                                    
-  ## About and my intrest.                                         
+  ## also my interest.                                         
              
   I'm someone who believes humans shouldn't spend their lives doing repetitive work.
   So I build AI agents that do it instead so people can spend time on what actually matters to them.                             
